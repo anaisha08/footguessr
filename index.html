@@ -340,10 +340,13 @@ function norm(s){ return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036
 
 function onInput(val) {
   const sug = document.getElementById('g-sug');
-  const n = norm(val);
+  const n = norm(val.trim());
   if(n.length < 3){sug.style.display='none';return;}
   const matches = [...new Set(state.pool.map(p=>p.name))]
-    .filter(name => norm(name).split(' ').some(word => word.startsWith(n)))
+    .filter(name => {
+      const words = norm(name).split(' ');
+      return words[0].startsWith(n) || (words.length > 1 && words[1].startsWith(n));
+    })
     .slice(0, 6);
   if(!matches.length){sug.style.display='none';return;}
   sug.innerHTML = matches.map(m=>`<div class="sug-item" onclick="pickSug('${m.replace(/'/g,"\'")}')"">${m}</div>`).join('');
