@@ -1,0 +1,2242 @@
+[
+  {
+    "name": "Zinedine Zidane",
+    "country": "France 🇫🇷",
+    "position": "Milieu offensif",
+    "club": "Real Madrid (2001–2006)",
+    "era": "2000s",
+    "answers": [
+      "zinedine zidane",
+      "zidane",
+      "zizou"
+    ]
+  },
+  {
+    "name": "Ronaldo Nazário",
+    "country": "Brésil 🇧🇷",
+    "position": "Avant-centre",
+    "club": "FC Barcelone & Inter Milan (1996–2002)",
+    "era": "90s",
+    "answers": [
+      "ronaldo nazario",
+      "ronaldo",
+      "r9"
+    ]
+  },
+  {
+    "name": "Thierry Henry",
+    "country": "France 🇫🇷",
+    "position": "Attaquant",
+    "club": "Arsenal (1999–2007)",
+    "era": "2000s",
+    "answers": [
+      "thierry henry",
+      "henry",
+      "titi"
+    ]
+  },
+  {
+    "name": "Ronaldinho",
+    "country": "Brésil 🇧🇷",
+    "position": "Milieu offensif",
+    "club": "FC Barcelone (2003–2008)",
+    "era": "2000s",
+    "answers": [
+      "ronaldinho",
+      "ronaldinho gaucho"
+    ]
+  },
+  {
+    "name": "Paolo Maldini",
+    "country": "Italie 🇮🇹",
+    "position": "Défenseur central",
+    "club": "AC Milan (1985–2009)",
+    "era": "90s",
+    "answers": [
+      "paolo maldini",
+      "maldini"
+    ]
+  },
+  {
+    "name": "Luka Modrić",
+    "country": "Croatie 🇭🇷",
+    "position": "Milieu central",
+    "club": "Real Madrid (2012–présent)",
+    "era": "2010s",
+    "answers": [
+      "luka modric",
+      "modric"
+    ]
+  },
+  {
+    "name": "Andrés Iniesta",
+    "country": "Espagne 🇪🇸",
+    "position": "Milieu central",
+    "club": "FC Barcelone (2002–2018)",
+    "era": "2000s",
+    "answers": [
+      "andres iniesta",
+      "iniesta"
+    ]
+  },
+  {
+    "name": "Gianluigi Buffon",
+    "country": "Italie 🇮🇹",
+    "position": "Gardien de but",
+    "club": "Juventus FC (2001–2018)",
+    "era": "2000s",
+    "answers": [
+      "gianluigi buffon",
+      "buffon"
+    ]
+  },
+  {
+    "name": "Robert Lewandowski",
+    "country": "Pologne 🇵🇱",
+    "position": "Avant-centre",
+    "club": "Bayern Munich (2014–2022)",
+    "era": "2010s",
+    "answers": [
+      "robert lewandowski",
+      "lewandowski",
+      "lewy"
+    ]
+  },
+  {
+    "name": "Kylian Mbappé",
+    "country": "France 🇫🇷",
+    "position": "Attaquant",
+    "club": "Paris Saint-Germain (2017–2024)",
+    "era": "2020s",
+    "answers": [
+      "kylian mbappe",
+      "mbappe"
+    ]
+  },
+  {
+    "name": "Lionel Messi",
+    "country": "Argentine 🇦🇷",
+    "position": "Ailier droit",
+    "club": "FC Barcelone (2004–2021)",
+    "era": "2010s",
+    "answers": [
+      "lionel messi",
+      "messi",
+      "leo messi"
+    ]
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "country": "Portugal 🇵🇹",
+    "position": "Attaquant",
+    "club": "Real Madrid (2009–2018)",
+    "era": "2010s",
+    "answers": [
+      "cristiano ronaldo",
+      "cristiano",
+      "cr7"
+    ]
+  },
+  {
+    "name": "Kaká",
+    "country": "Brésil 🇧🇷",
+    "position": "Milieu offensif",
+    "club": "AC Milan (2003–2009)",
+    "era": "2000s",
+    "answers": [
+      "kaka",
+      "ricardo kaka"
+    ]
+  },
+  {
+    "name": "Xavi Hernández",
+    "country": "Espagne 🇪🇸",
+    "position": "Milieu central",
+    "club": "FC Barcelone (1998–2015)",
+    "era": "2000s",
+    "answers": [
+      "xavi hernandez",
+      "xavi"
+    ]
+  },
+  {
+    "name": "Zlatan Ibrahimović",
+    "country": "Suède 🇸🇪",
+    "position": "Avant-centre",
+    "club": "AC Milan (2010–2012, 2019–2022)",
+    "era": "2010s",
+    "answers": [
+      "zlatan ibrahimovic",
+      "zlatan",
+      "ibra"
+    ]
+  },
+  {
+    "name": "Didier Drogba",
+    "country": "Côte d'Ivoire 🇨🇮",
+    "position": "Avant-centre",
+    "club": "Chelsea FC (2004–2012)",
+    "era": "2000s",
+    "answers": [
+      "didier drogba",
+      "drogba"
+    ]
+  },
+  {
+    "name": "Samuel Eto'o",
+    "country": "Cameroun 🇨🇲",
+    "position": "Avant-centre",
+    "club": "FC Barcelone (2004–2009)",
+    "era": "2000s",
+    "answers": [
+      "samuel etoo",
+      "etoo",
+      "eto'o"
+    ]
+  },
+  {
+    "name": "Frank Lampard",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Milieu box-to-box",
+    "club": "Chelsea FC (2001–2014)",
+    "era": "2000s",
+    "answers": [
+      "frank lampard",
+      "lampard"
+    ]
+  },
+  {
+    "name": "Steven Gerrard",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Milieu central",
+    "club": "Liverpool FC (1998–2015)",
+    "era": "2000s",
+    "answers": [
+      "steven gerrard",
+      "gerrard"
+    ]
+  },
+  {
+    "name": "Wayne Rooney",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Attaquant",
+    "club": "Manchester United (2004–2017)",
+    "era": "2000s",
+    "answers": [
+      "wayne rooney",
+      "rooney"
+    ]
+  },
+  {
+    "name": "Patrick Vieira",
+    "country": "France 🇫🇷",
+    "position": "Milieu défensif",
+    "club": "Arsenal (1996–2005)",
+    "era": "90s",
+    "answers": [
+      "patrick vieira",
+      "vieira"
+    ]
+  },
+  {
+    "name": "Roberto Carlos",
+    "country": "Brésil 🇧🇷",
+    "position": "Latéral gauche",
+    "club": "Real Madrid (1996–2007)",
+    "era": "90s",
+    "answers": [
+      "roberto carlos"
+    ]
+  },
+  {
+    "name": "Cafu",
+    "country": "Brésil 🇧🇷",
+    "position": "Latéral droit",
+    "club": "AS Roma & AC Milan (1997–2008)",
+    "era": "2000s",
+    "answers": [
+      "cafu",
+      "marcos cafu"
+    ]
+  },
+  {
+    "name": "Rivaldo",
+    "country": "Brésil 🇧🇷",
+    "position": "Milieu offensif",
+    "club": "FC Barcelone (1997–2002)",
+    "era": "90s",
+    "answers": [
+      "rivaldo"
+    ]
+  },
+  {
+    "name": "Gabriel Batistuta",
+    "country": "Argentine 🇦🇷",
+    "position": "Avant-centre",
+    "club": "Fiorentina (1991–2000)",
+    "era": "90s",
+    "answers": [
+      "gabriel batistuta",
+      "batistuta",
+      "batigol"
+    ]
+  },
+  {
+    "name": "Raúl González",
+    "country": "Espagne 🇪🇸",
+    "position": "Attaquant",
+    "club": "Real Madrid (1994–2010)",
+    "era": "2000s",
+    "answers": [
+      "raul gonzalez",
+      "raul"
+    ]
+  },
+  {
+    "name": "Luis Figo",
+    "country": "Portugal 🇵🇹",
+    "position": "Ailier droit",
+    "club": "Real Madrid (2000–2005)",
+    "era": "2000s",
+    "answers": [
+      "luis figo",
+      "figo"
+    ]
+  },
+  {
+    "name": "Marcel Desailly",
+    "country": "France 🇫🇷",
+    "position": "Défenseur central",
+    "club": "AC Milan & Chelsea (1993–2004)",
+    "era": "90s",
+    "answers": [
+      "marcel desailly",
+      "desailly"
+    ]
+  },
+  {
+    "name": "Luis Suárez",
+    "country": "Uruguay 🇺🇾",
+    "position": "Avant-centre",
+    "club": "Liverpool & FC Barcelone (2011–2020)",
+    "era": "2010s",
+    "answers": [
+      "luis suarez",
+      "suarez"
+    ]
+  },
+  {
+    "name": "Gareth Bale",
+    "country": "Pays de Galles 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "position": "Ailier droit",
+    "club": "Real Madrid (2013–2022)",
+    "era": "2010s",
+    "answers": [
+      "gareth bale",
+      "bale"
+    ]
+  },
+  {
+    "name": "Eden Hazard",
+    "country": "Belgique 🇧🇪",
+    "position": "Ailier gauche",
+    "club": "Chelsea FC (2012–2019)",
+    "era": "2010s",
+    "answers": [
+      "eden hazard",
+      "hazard"
+    ]
+  },
+  {
+    "name": "Manuel Neuer",
+    "country": "Allemagne 🇩🇪",
+    "position": "Gardien de but",
+    "club": "Bayern Munich (2011–présent)",
+    "era": "2010s",
+    "answers": [
+      "manuel neuer",
+      "neuer"
+    ]
+  },
+  {
+    "name": "Sergio Ramos",
+    "country": "Espagne 🇪🇸",
+    "position": "Défenseur central",
+    "club": "Real Madrid (2005–2021)",
+    "era": "2010s",
+    "answers": [
+      "sergio ramos",
+      "ramos"
+    ]
+  },
+  {
+    "name": "Antoine Griezmann",
+    "country": "France 🇫🇷",
+    "position": "Attaquant",
+    "club": "Atlético de Madrid (2014–2019)",
+    "era": "2010s",
+    "answers": [
+      "antoine griezmann",
+      "griezmann",
+      "grizou"
+    ]
+  },
+  {
+    "name": "Sadio Mané",
+    "country": "Sénégal 🇸🇳",
+    "position": "Ailier gauche",
+    "club": "Liverpool FC (2016–2022)",
+    "era": "2010s",
+    "answers": [
+      "sadio mane",
+      "mane"
+    ]
+  },
+  {
+    "name": "Mohamed Salah",
+    "country": "Égypte 🇪🇬",
+    "position": "Ailier droit",
+    "club": "Liverpool FC (2017–présent)",
+    "era": "2010s",
+    "answers": [
+      "mohamed salah",
+      "salah",
+      "mo salah"
+    ]
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "country": "Belgique 🇧🇪",
+    "position": "Milieu offensif",
+    "club": "Manchester City (2015–présent)",
+    "era": "2010s",
+    "answers": [
+      "kevin de bruyne",
+      "de bruyne",
+      "kdb"
+    ]
+  },
+  {
+    "name": "N'Golo Kanté",
+    "country": "France 🇫🇷",
+    "position": "Milieu défensif",
+    "club": "Chelsea FC (2016–2023)",
+    "era": "2010s",
+    "answers": [
+      "ngolo kante",
+      "kante"
+    ]
+  },
+  {
+    "name": "Erling Haaland",
+    "country": "Norvège 🇳🇴",
+    "position": "Avant-centre",
+    "club": "Manchester City (2022–présent)",
+    "era": "2020s",
+    "answers": [
+      "erling haaland",
+      "haaland"
+    ]
+  },
+  {
+    "name": "Vinicius Junior",
+    "country": "Brésil 🇧🇷",
+    "position": "Ailier gauche",
+    "club": "Real Madrid (2018–présent)",
+    "era": "2020s",
+    "answers": [
+      "vinicius junior",
+      "vinicius",
+      "vini jr"
+    ]
+  },
+  {
+    "name": "Pedri",
+    "country": "Espagne 🇪🇸",
+    "position": "Milieu central",
+    "club": "FC Barcelone (2020–présent)",
+    "era": "2020s",
+    "answers": [
+      "pedri",
+      "pedro gonzalez"
+    ]
+  },
+  {
+    "name": "Jude Bellingham",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Milieu box-to-box",
+    "club": "Real Madrid (2023–présent)",
+    "era": "2020s",
+    "answers": [
+      "jude bellingham",
+      "bellingham"
+    ]
+  },
+  {
+    "name": "Rodri",
+    "country": "Espagne 🇪🇸",
+    "position": "Milieu défensif",
+    "club": "Manchester City (2019–présent)",
+    "era": "2020s",
+    "answers": [
+      "rodri",
+      "rodrigo hernandez"
+    ]
+  },
+  {
+    "name": "Bukayo Saka",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Ailier droit",
+    "club": "Arsenal (2018–présent)",
+    "era": "2020s",
+    "answers": [
+      "bukayo saka",
+      "saka"
+    ]
+  },
+  {
+    "name": "Phil Foden",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Milieu offensif",
+    "club": "Manchester City (2017–présent)",
+    "era": "2020s",
+    "answers": [
+      "phil foden",
+      "foden"
+    ]
+  },
+  {
+    "name": "Gavi",
+    "country": "Espagne 🇪🇸",
+    "position": "Milieu central",
+    "club": "FC Barcelone (2021–présent)",
+    "era": "2020s",
+    "answers": [
+      "gavi",
+      "pablo gavi"
+    ]
+  },
+  {
+    "name": "Khvicha Kvaratskhelia",
+    "country": "Géorgie 🇬🇪",
+    "position": "Ailier gauche",
+    "club": "SSC Naples (2022–2025)",
+    "era": "2020s",
+    "answers": [
+      "khvicha kvaratskhelia",
+      "kvaratskhelia",
+      "kvara"
+    ]
+  },
+  {
+    "name": "Victor Osimhen",
+    "country": "Nigeria 🇳🇬",
+    "position": "Avant-centre",
+    "club": "SSC Naples (2020–2024)",
+    "era": "2020s",
+    "answers": [
+      "victor osimhen",
+      "osimhen"
+    ]
+  },
+  {
+    "name": "Lamine Yamal",
+    "country": "Espagne 🇪🇸",
+    "position": "Ailier droit",
+    "club": "FC Barcelone (2023–présent)",
+    "era": "2020s",
+    "answers": [
+      "lamine yamal",
+      "yamal"
+    ]
+  },
+  {
+    "name": "Florian Wirtz",
+    "country": "Allemagne 🇩🇪",
+    "position": "Milieu offensif",
+    "club": "Bayer Leverkusen (2020–présent)",
+    "era": "2020s",
+    "answers": [
+      "florian wirtz",
+      "wirtz"
+    ]
+  },
+  {
+    "name": "John Terry",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Défenseur central",
+    "club": "Chelsea FC (1998–2017)",
+    "era": "2000s",
+    "answers": [
+      "john terry",
+      "terry",
+      "jt"
+    ]
+  },
+  {
+    "name": "Rio Ferdinand",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Défenseur central",
+    "club": "Manchester United (2002–2014)",
+    "era": "2000s",
+    "answers": [
+      "rio ferdinand",
+      "ferdinand"
+    ]
+  },
+  {
+    "name": "Nemanja Vidić",
+    "country": "Serbie 🇷🇸",
+    "position": "Défenseur central",
+    "club": "Manchester United (2006–2014)",
+    "era": "2000s",
+    "answers": [
+      "nemanja vidic",
+      "vidic"
+    ]
+  },
+  {
+    "name": "Carlos Puyol",
+    "country": "Espagne 🇪🇸",
+    "position": "Défenseur central",
+    "club": "FC Barcelone (1999–2014)",
+    "era": "2000s",
+    "answers": [
+      "carles puyol",
+      "puyol"
+    ]
+  },
+  {
+    "name": "Pepe",
+    "country": "Portugal 🇵🇹",
+    "position": "Défenseur central",
+    "club": "Real Madrid (2007–2017)",
+    "era": "2010s",
+    "answers": [
+      "pepe",
+      "kepler pepe"
+    ]
+  },
+  {
+    "name": "Raphaël Varane",
+    "country": "France 🇫🇷",
+    "position": "Défenseur central",
+    "club": "Real Madrid (2011–2021)",
+    "era": "2010s",
+    "answers": [
+      "raphael varane",
+      "varane"
+    ]
+  },
+  {
+    "name": "Virgil van Dijk",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Défenseur central",
+    "club": "Liverpool FC (2018–présent)",
+    "era": "2010s",
+    "answers": [
+      "virgil van dijk",
+      "van dijk",
+      "vvd"
+    ]
+  },
+  {
+    "name": "Marcelo",
+    "country": "Brésil 🇧🇷",
+    "position": "Latéral gauche",
+    "club": "Real Madrid (2007–2022)",
+    "era": "2010s",
+    "answers": [
+      "marcelo",
+      "marcelo vieira"
+    ]
+  },
+  {
+    "name": "Dani Alves",
+    "country": "Brésil 🇧🇷",
+    "position": "Latéral droit",
+    "club": "FC Barcelone (2008–2016)",
+    "era": "2010s",
+    "answers": [
+      "dani alves",
+      "alves",
+      "daniel alves"
+    ]
+  },
+  {
+    "name": "Trent Alexander-Arnold",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Latéral droit",
+    "club": "Liverpool FC (2016–présent)",
+    "era": "2020s",
+    "answers": [
+      "trent alexander-arnold",
+      "trent",
+      "taa"
+    ]
+  },
+  {
+    "name": "Andrew Robertson",
+    "country": "Écosse 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "position": "Latéral gauche",
+    "club": "Liverpool FC (2017–présent)",
+    "era": "2020s",
+    "answers": [
+      "andrew robertson",
+      "robertson",
+      "robbo"
+    ]
+  },
+  {
+    "name": "Achraf Hakimi",
+    "country": "Maroc 🇲🇦",
+    "position": "Latéral droit",
+    "club": "Paris Saint-Germain (2021–présent)",
+    "era": "2020s",
+    "answers": [
+      "achraf hakimi",
+      "hakimi"
+    ]
+  },
+  {
+    "name": "Alphonso Davies",
+    "country": "Canada 🇨🇦",
+    "position": "Latéral gauche",
+    "club": "Bayern Munich (2019–présent)",
+    "era": "2020s",
+    "answers": [
+      "alphonso davies",
+      "davies"
+    ]
+  },
+  {
+    "name": "Lev Yashin",
+    "country": "URSS 🇷🇺",
+    "position": "Gardien de but",
+    "club": "Dynamo Moscou (1950–1970)",
+    "era": "classic",
+    "answers": [
+      "lev yashin",
+      "yashin"
+    ]
+  },
+  {
+    "name": "Peter Schmeichel",
+    "country": "Danemark 🇩🇰",
+    "position": "Gardien de but",
+    "club": "Manchester United (1991–1999)",
+    "era": "90s",
+    "answers": [
+      "peter schmeichel",
+      "schmeichel"
+    ]
+  },
+  {
+    "name": "Oliver Kahn",
+    "country": "Allemagne 🇩🇪",
+    "position": "Gardien de but",
+    "club": "Bayern Munich (1994–2008)",
+    "era": "90s",
+    "answers": [
+      "oliver kahn",
+      "kahn"
+    ]
+  },
+  {
+    "name": "Iker Casillas",
+    "country": "Espagne 🇪🇸",
+    "position": "Gardien de but",
+    "club": "Real Madrid (1999–2015)",
+    "era": "2000s",
+    "answers": [
+      "iker casillas",
+      "casillas",
+      "san iker"
+    ]
+  },
+  {
+    "name": "Petr Čech",
+    "country": "République tchèque 🇨🇿",
+    "position": "Gardien de but",
+    "club": "Chelsea FC (2004–2015)",
+    "era": "2000s",
+    "answers": [
+      "petr cech",
+      "cech"
+    ]
+  },
+  {
+    "name": "Marc-André ter Stegen",
+    "country": "Allemagne 🇩🇪",
+    "position": "Gardien de but",
+    "club": "FC Barcelone (2014–présent)",
+    "era": "2010s",
+    "answers": [
+      "marc-andre ter stegen",
+      "ter stegen",
+      "mats"
+    ]
+  },
+  {
+    "name": "Alisson Becker",
+    "country": "Brésil 🇧🇷",
+    "position": "Gardien de but",
+    "club": "Liverpool FC (2018–présent)",
+    "era": "2020s",
+    "answers": [
+      "alisson becker",
+      "alisson"
+    ]
+  },
+  {
+    "name": "Ederson",
+    "country": "Brésil 🇧🇷",
+    "position": "Gardien de but",
+    "club": "Manchester City (2017–présent)",
+    "era": "2020s",
+    "answers": [
+      "ederson",
+      "ederson moraes"
+    ]
+  },
+  {
+    "name": "Diego Maradona",
+    "country": "Argentine 🇦🇷",
+    "position": "Milieu offensif",
+    "club": "SSC Naples (1984–1991)",
+    "era": "80s",
+    "answers": [
+      "diego maradona",
+      "maradona",
+      "el pibe de oro"
+    ]
+  },
+  {
+    "name": "Johan Cruyff",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Attaquant",
+    "club": "Ajax & FC Barcelone (1964–1984)",
+    "era": "classic",
+    "answers": [
+      "johan cruyff",
+      "cruyff"
+    ]
+  },
+  {
+    "name": "Pelé",
+    "country": "Brésil 🇧🇷",
+    "position": "Avant-centre",
+    "club": "Santos FC (1956–1974)",
+    "era": "classic",
+    "answers": [
+      "pele",
+      "edson arantes",
+      "o rei"
+    ]
+  },
+  {
+    "name": "Franz Beckenbauer",
+    "country": "Allemagne 🇩🇪",
+    "position": "Libéro",
+    "club": "Bayern Munich (1964–1977)",
+    "era": "classic",
+    "answers": [
+      "franz beckenbauer",
+      "beckenbauer",
+      "der kaiser"
+    ]
+  },
+  {
+    "name": "Michel Platini",
+    "country": "France 🇫🇷",
+    "position": "Milieu offensif",
+    "club": "Juventus FC (1982–1987)",
+    "era": "80s",
+    "answers": [
+      "michel platini",
+      "platini"
+    ]
+  },
+  {
+    "name": "Marco van Basten",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Avant-centre",
+    "club": "AC Milan (1987–1995)",
+    "era": "80s",
+    "answers": [
+      "marco van basten",
+      "van basten"
+    ]
+  },
+  {
+    "name": "Ruud Gullit",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Milieu offensif",
+    "club": "AC Milan (1987–1995)",
+    "era": "80s",
+    "answers": [
+      "ruud gullit",
+      "gullit"
+    ]
+  },
+  {
+    "name": "Frank Rijkaard",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Milieu défensif",
+    "club": "AC Milan (1988–1993)",
+    "era": "80s",
+    "answers": [
+      "frank rijkaard",
+      "rijkaard"
+    ]
+  },
+  {
+    "name": "Romário",
+    "country": "Brésil 🇧🇷",
+    "position": "Avant-centre",
+    "club": "FC Barcelone (1993–1995)",
+    "era": "90s",
+    "answers": [
+      "romario",
+      "baixinho"
+    ]
+  },
+  {
+    "name": "Hristo Stoichkov",
+    "country": "Bulgarie 🇧🇬",
+    "position": "Attaquant",
+    "club": "FC Barcelone (1990–1995)",
+    "era": "90s",
+    "answers": [
+      "hristo stoichkov",
+      "stoichkov"
+    ]
+  },
+  {
+    "name": "George Weah",
+    "country": "Liberia 🇱🇷",
+    "position": "Avant-centre",
+    "club": "AC Milan (1995–2000)",
+    "era": "90s",
+    "answers": [
+      "george weah",
+      "weah"
+    ]
+  },
+  {
+    "name": "Ronaldo Luís Nazário",
+    "country": "Brésil 🇧🇷",
+    "position": "Avant-centre",
+    "club": "Real Madrid (2002–2007)",
+    "era": "2000s",
+    "answers": [
+      "ronaldo luis nazario",
+      "ronaldo fenomeno"
+    ]
+  },
+  {
+    "name": "Filippo Inzaghi",
+    "country": "Italie 🇮🇹",
+    "position": "Avant-centre",
+    "club": "AC Milan (2001–2012)",
+    "era": "2000s",
+    "answers": [
+      "filippo inzaghi",
+      "inzaghi",
+      "superpippo"
+    ]
+  },
+  {
+    "name": "Alessandro Del Piero",
+    "country": "Italie 🇮🇹",
+    "position": "Attaquant",
+    "club": "Juventus FC (1993–2012)",
+    "era": "90s",
+    "answers": [
+      "alessandro del piero",
+      "del piero",
+      "pinturicchio"
+    ]
+  },
+  {
+    "name": "Francesco Totti",
+    "country": "Italie 🇮🇹",
+    "position": "Attaquant",
+    "club": "AS Roma (1993–2017)",
+    "era": "90s",
+    "answers": [
+      "francesco totti",
+      "totti",
+      "er pupone"
+    ]
+  },
+  {
+    "name": "Roberto Baggio",
+    "country": "Italie 🇮🇹",
+    "position": "Attaquant",
+    "club": "Juventus FC (1990–1995)",
+    "era": "90s",
+    "answers": [
+      "roberto baggio",
+      "baggio",
+      "il divin codino"
+    ]
+  },
+  {
+    "name": "Andrea Pirlo",
+    "country": "Italie 🇮🇹",
+    "position": "Milieu défensif",
+    "club": "AC Milan (2001–2011)",
+    "era": "2000s",
+    "answers": [
+      "andrea pirlo",
+      "pirlo",
+      "il maestro"
+    ]
+  },
+  {
+    "name": "Gennaro Gattuso",
+    "country": "Italie 🇮🇹",
+    "position": "Milieu défensif",
+    "club": "AC Milan (1999–2012)",
+    "era": "2000s",
+    "answers": [
+      "gennaro gattuso",
+      "gattuso",
+      "rino"
+    ]
+  },
+  {
+    "name": "Clarence Seedorf",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Milieu central",
+    "club": "AC Milan (2002–2012)",
+    "era": "2000s",
+    "answers": [
+      "clarence seedorf",
+      "seedorf"
+    ]
+  },
+  {
+    "name": "Deco",
+    "country": "Portugal 🇵🇹",
+    "position": "Milieu offensif",
+    "club": "FC Barcelone (2004–2008)",
+    "era": "2000s",
+    "answers": [
+      "deco",
+      "anderson deco"
+    ]
+  },
+  {
+    "name": "Nuno Gomes",
+    "country": "Portugal 🇵🇹",
+    "position": "Avant-centre",
+    "club": "SL Benfica (2002–2011)",
+    "era": "2000s",
+    "answers": [
+      "nuno gomes"
+    ]
+  },
+  {
+    "name": "Henrik Larsson",
+    "country": "Suède 🇸🇪",
+    "position": "Avant-centre",
+    "club": "Celtic FC (1997–2004)",
+    "era": "90s",
+    "answers": [
+      "henrik larsson",
+      "larsson",
+      "king of kings"
+    ]
+  },
+  {
+    "name": "David Beckham",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Milieu droit",
+    "club": "Manchester United (1993–2003)",
+    "era": "90s",
+    "answers": [
+      "david beckham",
+      "beckham",
+      "becks"
+    ]
+  },
+  {
+    "name": "Paul Scholes",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Milieu central",
+    "club": "Manchester United (1994–2013)",
+    "era": "90s",
+    "answers": [
+      "paul scholes",
+      "scholes"
+    ]
+  },
+  {
+    "name": "Roy Keane",
+    "country": "Irlande 🇮🇪",
+    "position": "Milieu défensif",
+    "club": "Manchester United (1993–2005)",
+    "era": "90s",
+    "answers": [
+      "roy keane",
+      "keane"
+    ]
+  },
+  {
+    "name": "Eric Cantona",
+    "country": "France 🇫🇷",
+    "position": "Attaquant",
+    "club": "Manchester United (1992–1997)",
+    "era": "90s",
+    "answers": [
+      "eric cantona",
+      "cantona",
+      "king eric"
+    ]
+  },
+  {
+    "name": "Alan Shearer",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Avant-centre",
+    "club": "Newcastle United (1996–2006)",
+    "era": "90s",
+    "answers": [
+      "alan shearer",
+      "shearer"
+    ]
+  },
+  {
+    "name": "Ryan Giggs",
+    "country": "Pays de Galles 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "position": "Ailier gauche",
+    "club": "Manchester United (1990–2014)",
+    "era": "90s",
+    "answers": [
+      "ryan giggs",
+      "giggs"
+    ]
+  },
+  {
+    "name": "Dennis Bergkamp",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Attaquant",
+    "club": "Arsenal (1995–2006)",
+    "era": "90s",
+    "answers": [
+      "dennis bergkamp",
+      "bergkamp",
+      "the non-flying dutchman"
+    ]
+  },
+  {
+    "name": "Patrick Kluivert",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Avant-centre",
+    "club": "Ajax & FC Barcelone (1994–2002)",
+    "era": "90s",
+    "answers": [
+      "patrick kluivert",
+      "kluivert"
+    ]
+  },
+  {
+    "name": "Marc Overmars",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Ailier gauche",
+    "club": "Arsenal (1997–2000)",
+    "era": "90s",
+    "answers": [
+      "marc overmars",
+      "overmars"
+    ]
+  },
+  {
+    "name": "Lilian Thuram",
+    "country": "France 🇫🇷",
+    "position": "Défenseur droit",
+    "club": "Juventus FC (2001–2006)",
+    "era": "2000s",
+    "answers": [
+      "lilian thuram",
+      "thuram"
+    ]
+  },
+  {
+    "name": "Emmanuel Petit",
+    "country": "France 🇫🇷",
+    "position": "Milieu défensif",
+    "club": "Arsenal (1997–2000)",
+    "era": "90s",
+    "answers": [
+      "emmanuel petit",
+      "petit"
+    ]
+  },
+  {
+    "name": "David Trezeguet",
+    "country": "France 🇫🇷",
+    "position": "Avant-centre",
+    "club": "Juventus FC (2000–2010)",
+    "era": "2000s",
+    "answers": [
+      "david trezeguet",
+      "trezeguet"
+    ]
+  },
+  {
+    "name": "Sylvain Wiltord",
+    "country": "France 🇫🇷",
+    "position": "Attaquant",
+    "club": "Arsenal (2000–2004)",
+    "era": "2000s",
+    "answers": [
+      "sylvain wiltord",
+      "wiltord"
+    ]
+  },
+  {
+    "name": "Robert Pires",
+    "country": "France 🇫🇷",
+    "position": "Ailier gauche",
+    "club": "Arsenal (2000–2006)",
+    "era": "2000s",
+    "answers": [
+      "robert pires",
+      "pires"
+    ]
+  },
+  {
+    "name": "Nwankwo Kanu",
+    "country": "Nigeria 🇳🇬",
+    "position": "Attaquant",
+    "club": "Arsenal (1999–2004)",
+    "era": "2000s",
+    "answers": [
+      "nwankwo kanu",
+      "kanu",
+      "papilo"
+    ]
+  },
+  {
+    "name": "Jay-Jay Okocha",
+    "country": "Nigeria 🇳🇬",
+    "position": "Milieu offensif",
+    "club": "Paris Saint-Germain (1998–2002)",
+    "era": "90s",
+    "answers": [
+      "jay-jay okocha",
+      "okocha",
+      "augustine okocha"
+    ]
+  },
+  {
+    "name": "El Hadji Diouf",
+    "country": "Sénégal 🇸🇳",
+    "position": "Attaquant",
+    "club": "Liverpool FC (2002–2004)",
+    "era": "2000s",
+    "answers": [
+      "el hadji diouf",
+      "diouf"
+    ]
+  },
+  {
+    "name": "Robinho",
+    "country": "Brésil 🇧🇷",
+    "position": "Ailier",
+    "club": "Real Madrid (2005–2008)",
+    "era": "2000s",
+    "answers": [
+      "robinho",
+      "robson souza"
+    ]
+  },
+  {
+    "name": "Adriano",
+    "country": "Brésil 🇧🇷",
+    "position": "Avant-centre",
+    "club": "Inter Milan (2004–2009)",
+    "era": "2000s",
+    "answers": [
+      "adriano",
+      "l'imperador",
+      "adriano leite"
+    ]
+  },
+  {
+    "name": "Juan Román Riquelme",
+    "country": "Argentine 🇦🇷",
+    "position": "Meneur de jeu",
+    "club": "Boca Juniors (1996–2012)",
+    "era": "2000s",
+    "answers": [
+      "juan roman riquelme",
+      "riquelme",
+      "jrr"
+    ]
+  },
+  {
+    "name": "Carlos Tevez",
+    "country": "Argentine 🇦🇷",
+    "position": "Attaquant",
+    "club": "Manchester United & City (2007–2013)",
+    "era": "2000s",
+    "answers": [
+      "carlos tevez",
+      "tevez",
+      "carlitos"
+    ]
+  },
+  {
+    "name": "Javier Zanetti",
+    "country": "Argentine 🇦🇷",
+    "position": "Latéral droit",
+    "club": "Inter Milan (1995–2014)",
+    "era": "90s",
+    "answers": [
+      "javier zanetti",
+      "zanetti",
+      "pupi"
+    ]
+  },
+  {
+    "name": "Hernan Crespo",
+    "country": "Argentine 🇦🇷",
+    "position": "Avant-centre",
+    "club": "AC Milan (2002–2004)",
+    "era": "2000s",
+    "answers": [
+      "hernan crespo",
+      "crespo",
+      "valdanito"
+    ]
+  },
+  {
+    "name": "Pablo Aimar",
+    "country": "Argentine 🇦🇷",
+    "position": "Milieu offensif",
+    "club": "Valencia CF (2001–2006)",
+    "era": "2000s",
+    "answers": [
+      "pablo aimar",
+      "aimar"
+    ]
+  },
+  {
+    "name": "Sergio Agüero",
+    "country": "Argentine 🇦🇷",
+    "position": "Avant-centre",
+    "club": "Manchester City (2011–2021)",
+    "era": "2010s",
+    "answers": [
+      "sergio aguero",
+      "aguero",
+      "kun aguero",
+      "kun"
+    ]
+  },
+  {
+    "name": "Gonzalo Higuaín",
+    "country": "Argentine 🇦🇷",
+    "position": "Avant-centre",
+    "club": "Juventus FC (2016–2020)",
+    "era": "2010s",
+    "answers": [
+      "gonzalo higuain",
+      "higuain",
+      "pipita"
+    ]
+  },
+  {
+    "name": "Ángel Di María",
+    "country": "Argentine 🇦🇷",
+    "position": "Ailier droit",
+    "club": "Real Madrid (2010–2014)",
+    "era": "2010s",
+    "answers": [
+      "angel di maria",
+      "di maria",
+      "fideo"
+    ]
+  },
+  {
+    "name": "Javier Mascherano",
+    "country": "Argentine 🇦🇷",
+    "position": "Milieu défensif",
+    "club": "FC Barcelone (2010–2018)",
+    "era": "2010s",
+    "answers": [
+      "javier mascherano",
+      "mascherano",
+      "el jefecito"
+    ]
+  },
+  {
+    "name": "Fernando Torres",
+    "country": "Espagne 🇪🇸",
+    "position": "Avant-centre",
+    "club": "Liverpool FC (2007–2011)",
+    "era": "2000s",
+    "answers": [
+      "fernando torres",
+      "torres",
+      "el nino"
+    ]
+  },
+  {
+    "name": "David Villa",
+    "country": "Espagne 🇪🇸",
+    "position": "Avant-centre",
+    "club": "FC Barcelone (2010–2013)",
+    "era": "2010s",
+    "answers": [
+      "david villa",
+      "villa",
+      "el guaje"
+    ]
+  },
+  {
+    "name": "Cesc Fàbregas",
+    "country": "Espagne 🇪🇸",
+    "position": "Milieu offensif",
+    "club": "Arsenal (2004–2011)",
+    "era": "2000s",
+    "answers": [
+      "cesc fabregas",
+      "fabregas",
+      "cesc"
+    ]
+  },
+  {
+    "name": "David Silva",
+    "country": "Espagne 🇪🇸",
+    "position": "Milieu offensif",
+    "club": "Manchester City (2010–2020)",
+    "era": "2010s",
+    "answers": [
+      "david silva",
+      "silva",
+      "el mago"
+    ]
+  },
+  {
+    "name": "Sergio Busquets",
+    "country": "Espagne 🇪🇸",
+    "position": "Milieu défensif",
+    "club": "FC Barcelone (2008–2023)",
+    "era": "2010s",
+    "answers": [
+      "sergio busquets",
+      "busquets"
+    ]
+  },
+  {
+    "name": "Gerard Piqué",
+    "country": "Espagne 🇪🇸",
+    "position": "Défenseur central",
+    "club": "FC Barcelone (2008–2022)",
+    "era": "2010s",
+    "answers": [
+      "gerard pique",
+      "pique"
+    ]
+  },
+  {
+    "name": "Pedro Rodríguez",
+    "country": "Espagne 🇪🇸",
+    "position": "Ailier droit",
+    "club": "FC Barcelone (2008–2015)",
+    "era": "2010s",
+    "answers": [
+      "pedro rodriguez",
+      "pedro"
+    ]
+  },
+  {
+    "name": "Neymar Jr",
+    "country": "Brésil 🇧🇷",
+    "position": "Ailier gauche",
+    "club": "FC Barcelone & PSG (2013–2023)",
+    "era": "2010s",
+    "answers": [
+      "neymar",
+      "neymar jr",
+      "ney"
+    ]
+  },
+  {
+    "name": "Thiago Silva",
+    "country": "Brésil 🇧🇷",
+    "position": "Défenseur central",
+    "club": "PSG (2012–2020)",
+    "era": "2010s",
+    "answers": [
+      "thiago silva",
+      "t. silva",
+      "o monstro"
+    ]
+  },
+  {
+    "name": "Oscar",
+    "country": "Brésil 🇧🇷",
+    "position": "Milieu offensif",
+    "club": "Chelsea FC (2012–2017)",
+    "era": "2010s",
+    "answers": [
+      "oscar",
+      "oscar dos santos"
+    ]
+  },
+  {
+    "name": "Philippe Coutinho",
+    "country": "Brésil 🇧🇷",
+    "position": "Milieu offensif",
+    "club": "Liverpool FC (2013–2018)",
+    "era": "2010s",
+    "answers": [
+      "philippe coutinho",
+      "coutinho",
+      "little magician"
+    ]
+  },
+  {
+    "name": "Willian",
+    "country": "Brésil 🇧🇷",
+    "position": "Ailier droit",
+    "club": "Chelsea FC (2013–2020)",
+    "era": "2010s",
+    "answers": [
+      "willian",
+      "willian borges"
+    ]
+  },
+  {
+    "name": "Diego Forlán",
+    "country": "Uruguay 🇺🇾",
+    "position": "Avant-centre",
+    "club": "Atlético de Madrid (2007–2011)",
+    "era": "2000s",
+    "answers": [
+      "diego forlan",
+      "forlan"
+    ]
+  },
+  {
+    "name": "Edinson Cavani",
+    "country": "Uruguay 🇺🇾",
+    "position": "Avant-centre",
+    "club": "Paris Saint-Germain (2013–2020)",
+    "era": "2010s",
+    "answers": [
+      "edinson cavani",
+      "cavani",
+      "el matador"
+    ]
+  },
+  {
+    "name": "Radamel Falcao",
+    "country": "Colombie 🇨🇴",
+    "position": "Avant-centre",
+    "club": "Atlético de Madrid (2011–2013)",
+    "era": "2010s",
+    "answers": [
+      "radamel falcao",
+      "falcao",
+      "el tigre"
+    ]
+  },
+  {
+    "name": "James Rodríguez",
+    "country": "Colombie 🇨🇴",
+    "position": "Milieu offensif",
+    "club": "Real Madrid (2014–2017)",
+    "era": "2010s",
+    "answers": [
+      "james rodriguez",
+      "james"
+    ]
+  },
+  {
+    "name": "Mesut Özil",
+    "country": "Allemagne 🇩🇪",
+    "position": "Milieu offensif",
+    "club": "Arsenal (2013–2021)",
+    "era": "2010s",
+    "answers": [
+      "mesut ozil",
+      "ozil"
+    ]
+  },
+  {
+    "name": "Thomas Müller",
+    "country": "Allemagne 🇩🇪",
+    "position": "Milieu offensif",
+    "club": "Bayern Munich (2008–présent)",
+    "era": "2010s",
+    "answers": [
+      "thomas muller",
+      "muller",
+      "raumdeuter"
+    ]
+  },
+  {
+    "name": "Bastian Schweinsteiger",
+    "country": "Allemagne 🇩🇪",
+    "position": "Milieu central",
+    "club": "Bayern Munich (2002–2015)",
+    "era": "2010s",
+    "answers": [
+      "bastian schweinsteiger",
+      "schweini",
+      "schweinsteiger"
+    ]
+  },
+  {
+    "name": "Miroslav Klose",
+    "country": "Allemagne 🇩🇪",
+    "position": "Avant-centre",
+    "club": "Bayern Munich & Lazio (2007–2016)",
+    "era": "2010s",
+    "answers": [
+      "miroslav klose",
+      "klose",
+      "miro"
+    ]
+  },
+  {
+    "name": "Michael Ballack",
+    "country": "Allemagne 🇩🇪",
+    "position": "Milieu central",
+    "club": "Bayern Munich & Chelsea (2002–2010)",
+    "era": "2000s",
+    "answers": [
+      "michael ballack",
+      "ballack"
+    ]
+  },
+  {
+    "name": "Toni Kroos",
+    "country": "Allemagne 🇩🇪",
+    "position": "Milieu central",
+    "club": "Real Madrid (2014–2024)",
+    "era": "2010s",
+    "answers": [
+      "toni kroos",
+      "kroos"
+    ]
+  },
+  {
+    "name": "Arjen Robben",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Ailier droit",
+    "club": "Bayern Munich (2009–2019)",
+    "era": "2010s",
+    "answers": [
+      "arjen robben",
+      "robben"
+    ]
+  },
+  {
+    "name": "Franck Ribéry",
+    "country": "France 🇫🇷",
+    "position": "Ailier gauche",
+    "club": "Bayern Munich (2007–2019)",
+    "era": "2010s",
+    "answers": [
+      "franck ribery",
+      "ribery",
+      "la scarface"
+    ]
+  },
+  {
+    "name": "Robin van Persie",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Avant-centre",
+    "club": "Arsenal & Manchester United (2004–2015)",
+    "era": "2010s",
+    "answers": [
+      "robin van persie",
+      "van persie",
+      "rvp"
+    ]
+  },
+  {
+    "name": "Wesley Sneijder",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Milieu offensif",
+    "club": "Inter Milan (2009–2013)",
+    "era": "2010s",
+    "answers": [
+      "wesley sneijder",
+      "sneijder"
+    ]
+  },
+  {
+    "name": "Dirk Kuyt",
+    "country": "Pays-Bas 🇳🇱",
+    "position": "Attaquant",
+    "club": "Liverpool FC (2006–2012)",
+    "era": "2000s",
+    "answers": [
+      "dirk kuyt",
+      "kuyt"
+    ]
+  },
+  {
+    "name": "Dimitar Berbatov",
+    "country": "Bulgarie 🇧🇬",
+    "position": "Avant-centre",
+    "club": "Manchester United (2008–2012)",
+    "era": "2000s",
+    "answers": [
+      "dimitar berbatov",
+      "berbatov",
+      "berba"
+    ]
+  },
+  {
+    "name": "Yaya Touré",
+    "country": "Côte d'Ivoire 🇨🇮",
+    "position": "Milieu central",
+    "club": "Manchester City (2010–2018)",
+    "era": "2010s",
+    "answers": [
+      "yaya toure",
+      "toure",
+      "yaya"
+    ]
+  },
+  {
+    "name": "Michael Essien",
+    "country": "Ghana 🇬🇭",
+    "position": "Milieu défensif",
+    "club": "Chelsea FC (2005–2012)",
+    "era": "2000s",
+    "answers": [
+      "michael essien",
+      "essien",
+      "the bison"
+    ]
+  },
+  {
+    "name": "Sulley Muntari",
+    "country": "Ghana 🇬🇭",
+    "position": "Milieu central",
+    "club": "Inter Milan (2008–2012)",
+    "era": "2010s",
+    "answers": [
+      "sulley muntari",
+      "muntari"
+    ]
+  },
+  {
+    "name": "Riyad Mahrez",
+    "country": "Algérie 🇩🇿",
+    "position": "Ailier droit",
+    "club": "Manchester City (2018–2023)",
+    "era": "2020s",
+    "answers": [
+      "riyad mahrez",
+      "mahrez"
+    ]
+  },
+  {
+    "name": "Sofiane Feghouli",
+    "country": "Algérie 🇩🇿",
+    "position": "Ailier droit",
+    "club": "Valencia CF (2010–2016)",
+    "era": "2010s",
+    "answers": [
+      "sofiane feghouli",
+      "feghouli"
+    ]
+  },
+  {
+    "name": "Hakim Ziyech",
+    "country": "Maroc 🇲🇦",
+    "position": "Ailier droit",
+    "club": "Chelsea FC (2020–2023)",
+    "era": "2020s",
+    "answers": [
+      "hakim ziyech",
+      "ziyech"
+    ]
+  },
+  {
+    "name": "Youssef En-Nesyri",
+    "country": "Maroc 🇲🇦",
+    "position": "Avant-centre",
+    "club": "Séville FC (2020–2024)",
+    "era": "2020s",
+    "answers": [
+      "youssef en-nesyri",
+      "en-nesyri",
+      "en nesyri"
+    ]
+  },
+  {
+    "name": "Son Heung-min",
+    "country": "Corée du Sud 🇰🇷",
+    "position": "Ailier gauche",
+    "club": "Tottenham Hotspur (2015–présent)",
+    "era": "2010s",
+    "answers": [
+      "son heung-min",
+      "son",
+      "sonny"
+    ]
+  },
+  {
+    "name": "Park Ji-sung",
+    "country": "Corée du Sud 🇰🇷",
+    "position": "Milieu droit",
+    "club": "Manchester United (2005–2012)",
+    "era": "2000s",
+    "answers": [
+      "park ji-sung",
+      "park ji sung",
+      "park"
+    ]
+  },
+  {
+    "name": "Hidetoshi Nakata",
+    "country": "Japon 🇯🇵",
+    "position": "Milieu offensif",
+    "club": "AS Roma (2000–2004)",
+    "era": "2000s",
+    "answers": [
+      "hidetoshi nakata",
+      "nakata"
+    ]
+  },
+  {
+    "name": "Shinji Kagawa",
+    "country": "Japon 🇯🇵",
+    "position": "Milieu offensif",
+    "club": "Manchester United (2012–2014)",
+    "era": "2010s",
+    "answers": [
+      "shinji kagawa",
+      "kagawa"
+    ]
+  },
+  {
+    "name": "Harry Kane",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Avant-centre",
+    "club": "Bayern Munich (2023–présent)",
+    "era": "2020s",
+    "answers": [
+      "harry kane",
+      "kane"
+    ]
+  },
+  {
+    "name": "Marcus Rashford",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Attaquant",
+    "club": "Manchester United (2016–présent)",
+    "era": "2020s",
+    "answers": [
+      "marcus rashford",
+      "rashford"
+    ]
+  },
+  {
+    "name": "Raheem Sterling",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Ailier gauche",
+    "club": "Manchester City (2015–2022)",
+    "era": "2010s",
+    "answers": [
+      "raheem sterling",
+      "sterling"
+    ]
+  },
+  {
+    "name": "Jack Grealish",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Milieu offensif",
+    "club": "Manchester City (2021–présent)",
+    "era": "2020s",
+    "answers": [
+      "jack grealish",
+      "grealish"
+    ]
+  },
+  {
+    "name": "Declan Rice",
+    "country": "Angleterre 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "position": "Milieu défensif",
+    "club": "Arsenal (2023–présent)",
+    "era": "2020s",
+    "answers": [
+      "declan rice",
+      "rice"
+    ]
+  },
+  {
+    "name": "Bruno Fernandes",
+    "country": "Portugal 🇵🇹",
+    "position": "Milieu offensif",
+    "club": "Manchester United (2020–présent)",
+    "era": "2020s",
+    "answers": [
+      "bruno fernandes",
+      "bruno"
+    ]
+  },
+  {
+    "name": "João Cancelo",
+    "country": "Portugal 🇵🇹",
+    "position": "Latéral droit",
+    "club": "Manchester City (2019–2023)",
+    "era": "2020s",
+    "answers": [
+      "joao cancelo",
+      "cancelo"
+    ]
+  },
+  {
+    "name": "Ruben Dias",
+    "country": "Portugal 🇵🇹",
+    "position": "Défenseur central",
+    "club": "Manchester City (2020–présent)",
+    "era": "2020s",
+    "answers": [
+      "ruben dias",
+      "dias"
+    ]
+  },
+  {
+    "name": "Bernardo Silva",
+    "country": "Portugal 🇵🇹",
+    "position": "Milieu offensif",
+    "club": "Manchester City (2017–présent)",
+    "era": "2020s",
+    "answers": [
+      "bernardo silva",
+      "bernardo"
+    ]
+  },
+  {
+    "name": "Nani",
+    "country": "Portugal 🇵🇹",
+    "position": "Ailier gauche",
+    "club": "Manchester United (2007–2014)",
+    "era": "2000s",
+    "answers": [
+      "nani",
+      "luis nani"
+    ]
+  },
+  {
+    "name": "Federico Valverde",
+    "country": "Uruguay 🇺🇾",
+    "position": "Milieu central",
+    "club": "Real Madrid (2018–présent)",
+    "era": "2020s",
+    "answers": [
+      "federico valverde",
+      "valverde",
+      "fede valverde"
+    ]
+  },
+  {
+    "name": "Darwin Núñez",
+    "country": "Uruguay 🇺🇾",
+    "position": "Avant-centre",
+    "club": "Liverpool FC (2022–présent)",
+    "era": "2020s",
+    "answers": [
+      "darwin nunez",
+      "nunez"
+    ]
+  },
+  {
+    "name": "Richarlison",
+    "country": "Brésil 🇧🇷",
+    "position": "Attaquant",
+    "club": "Tottenham Hotspur (2022–présent)",
+    "era": "2020s",
+    "answers": [
+      "richarlison",
+      "richarlison andrade"
+    ]
+  },
+  {
+    "name": "Raphinha",
+    "country": "Brésil 🇧🇷",
+    "position": "Ailier droit",
+    "club": "FC Barcelone (2022–présent)",
+    "era": "2020s",
+    "answers": [
+      "raphinha",
+      "raphinha belloli"
+    ]
+  },
+  {
+    "name": "Endrick",
+    "country": "Brésil 🇧🇷",
+    "position": "Avant-centre",
+    "club": "Real Madrid (2024–présent)",
+    "era": "2020s",
+    "answers": [
+      "endrick",
+      "endrick felipe"
+    ]
+  },
+  {
+    "name": "Ilkay Gündogan",
+    "country": "Allemagne 🇩🇪",
+    "position": "Milieu central",
+    "club": "Manchester City (2016–2023)",
+    "era": "2010s",
+    "answers": [
+      "ilkay gundogan",
+      "gundogan"
+    ]
+  },
+  {
+    "name": "Leroy Sané",
+    "country": "Allemagne 🇩🇪",
+    "position": "Ailier gauche",
+    "club": "Bayern Munich (2020–présent)",
+    "era": "2020s",
+    "answers": [
+      "leroy sane",
+      "sane"
+    ]
+  },
+  {
+    "name": "Jamal Musiala",
+    "country": "Allemagne 🇩🇪",
+    "position": "Milieu offensif",
+    "club": "Bayern Munich (2020–présent)",
+    "era": "2020s",
+    "answers": [
+      "jamal musiala",
+      "musiala"
+    ]
+  },
+  {
+    "name": "Kai Havertz",
+    "country": "Allemagne 🇩🇪",
+    "position": "Milieu offensif",
+    "club": "Arsenal (2023–présent)",
+    "era": "2020s",
+    "answers": [
+      "kai havertz",
+      "havertz"
+    ]
+  },
+  {
+    "name": "Thibaut Courtois",
+    "country": "Belgique 🇧🇪",
+    "position": "Gardien de but",
+    "club": "Real Madrid (2018–présent)",
+    "era": "2020s",
+    "answers": [
+      "thibaut courtois",
+      "courtois"
+    ]
+  },
+  {
+    "name": "Romelu Lukaku",
+    "country": "Belgique 🇧🇪",
+    "position": "Avant-centre",
+    "club": "Inter Milan (2019–2021)",
+    "era": "2020s",
+    "answers": [
+      "romelu lukaku",
+      "lukaku",
+      "big rom"
+    ]
+  },
+  {
+    "name": "Dries Mertens",
+    "country": "Belgique 🇧🇪",
+    "position": "Attaquant",
+    "club": "SSC Naples (2013–2022)",
+    "era": "2010s",
+    "answers": [
+      "dries mertens",
+      "mertens",
+      "ciro"
+    ]
+  },
+  {
+    "name": "Alexis Sánchez",
+    "country": "Chili 🇨🇱",
+    "position": "Ailier gauche",
+    "club": "Arsenal (2014–2018)",
+    "era": "2010s",
+    "answers": [
+      "alexis sanchez",
+      "alexis",
+      "el nino maravilla"
+    ]
+  },
+  {
+    "name": "Arturo Vidal",
+    "country": "Chili 🇨🇱",
+    "position": "Milieu central",
+    "club": "Bayern Munich (2015–2018)",
+    "era": "2010s",
+    "answers": [
+      "arturo vidal",
+      "vidal",
+      "el guerrero"
+    ]
+  },
+  {
+    "name": "Ivan Rakitić",
+    "country": "Croatie 🇭🇷",
+    "position": "Milieu central",
+    "club": "FC Barcelone (2014–2020)",
+    "era": "2010s",
+    "answers": [
+      "ivan rakitic",
+      "rakitic"
+    ]
+  },
+  {
+    "name": "Mario Mandžukić",
+    "country": "Croatie 🇭🇷",
+    "position": "Avant-centre",
+    "club": "Juventus FC (2015–2019)",
+    "era": "2010s",
+    "answers": [
+      "mario mandzukic",
+      "mandzukic"
+    ]
+  },
+  {
+    "name": "Dejan Lovren",
+    "country": "Croatie 🇭🇷",
+    "position": "Défenseur central",
+    "club": "Liverpool FC (2014–2020)",
+    "era": "2010s",
+    "answers": [
+      "dejan lovren",
+      "lovren"
+    ]
+  },
+  {
+    "name": "Edin Džeko",
+    "country": "Bosnie-Herzégovine 🇧🇦",
+    "position": "Avant-centre",
+    "club": "AS Roma (2016–2021)",
+    "era": "2010s",
+    "answers": [
+      "edin dzeko",
+      "dzeko",
+      "il cigno di sarajevo"
+    ]
+  },
+  {
+    "name": "Luka Jović",
+    "country": "Serbie 🇷🇸",
+    "position": "Avant-centre",
+    "club": "Real Madrid (2019–2021)",
+    "era": "2020s",
+    "answers": [
+      "luka jovic",
+      "jovic"
+    ]
+  },
+  {
+    "name": "Dusan Vlahović",
+    "country": "Serbie 🇷🇸",
+    "position": "Avant-centre",
+    "club": "Juventus FC (2022–présent)",
+    "era": "2020s",
+    "answers": [
+      "dusan vlahovic",
+      "vlahovic",
+      "dv9"
+    ]
+  },
+  {
+    "name": "Karim Benzema",
+    "country": "France 🇫🇷",
+    "position": "Avant-centre",
+    "club": "Real Madrid (2009–2023)",
+    "era": "2010s",
+    "answers": [
+      "karim benzema",
+      "benzema",
+      "kb9"
+    ]
+  },
+  {
+    "name": "Kingsley Coman",
+    "country": "France 🇫🇷",
+    "position": "Ailier gauche",
+    "club": "Bayern Munich (2017–présent)",
+    "era": "2020s",
+    "answers": [
+      "kingsley coman",
+      "coman"
+    ]
+  },
+  {
+    "name": "Ousmane Dembélé",
+    "country": "France 🇫🇷",
+    "position": "Ailier droit",
+    "club": "FC Barcelone (2017–2023)",
+    "era": "2020s",
+    "answers": [
+      "ousmane dembele",
+      "dembele",
+      "ousm"
+    ]
+  },
+  {
+    "name": "Paul Pogba",
+    "country": "France 🇫🇷",
+    "position": "Milieu central",
+    "club": "Manchester United (2016–2022)",
+    "era": "2010s",
+    "answers": [
+      "paul pogba",
+      "pogba",
+      "la pioche"
+    ]
+  },
+  {
+    "name": "Olivier Giroud",
+    "country": "France 🇫🇷",
+    "position": "Avant-centre",
+    "club": "Chelsea FC (2018–2021)",
+    "era": "2020s",
+    "answers": [
+      "olivier giroud",
+      "giroud"
+    ]
+  },
+  {
+    "name": "Hugo Lloris",
+    "country": "France 🇫🇷",
+    "position": "Gardien de but",
+    "club": "Tottenham Hotspur (2012–2023)",
+    "era": "2010s",
+    "answers": [
+      "hugo lloris",
+      "lloris"
+    ]
+  },
+  {
+    "name": "Blaise Matuidi",
+    "country": "France 🇫🇷",
+    "position": "Milieu défensif",
+    "club": "Paris Saint-Germain (2011–2017)",
+    "era": "2010s",
+    "answers": [
+      "blaise matuidi",
+      "matuidi"
+    ]
+  }
+]
