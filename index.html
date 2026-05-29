@@ -57,21 +57,35 @@
     .btn-primary:hover{background:var(--green-light);}
     .btn-primary:active{transform:scale(0.98);}
 
+    .btn-secondary{width:100%;background:transparent;border:1px solid #444;border-radius:12px;padding:0.85rem;font-family:'DM Sans',sans-serif;font-size:14px;color:var(--text-muted);cursor:pointer;margin-top:0.7rem;transition:border-color 0.15s,color 0.15s;}
+    .btn-secondary:hover{border-color:#666;color:var(--text);}
+
+    /* GAME */
     .round-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem;}
     .round-label{font-family:'Bebas Neue',sans-serif;font-size:16px;letter-spacing:1.5px;color:var(--text-muted);}
-    .lives-wrap{display:flex;gap:5px;}
-    .life-dot{width:9px;height:9px;border-radius:50%;background:var(--green-light);transition:background 0.25s;}
-    .life-dot.used{background:#3a3a3a;}
 
-    .clue-card{background:var(--surface2);border-radius:12px;padding:0.9rem 1rem;margin-bottom:0.6rem;display:flex;align-items:center;gap:12px;border:1px solid #333;transition:opacity 0.3s,filter 0.3s;}
-    .clue-card.locked{opacity:0.3;filter:blur(1.5px);pointer-events:none;}
+    /* Essais visuels : 2 balles */
+    .tries-wrap{display:flex;gap:6px;align-items:center;}
+    .try-ball{font-size:18px;transition:filter 0.25s,opacity 0.25s;}
+    .try-ball.used{filter:grayscale(1);opacity:0.3;}
+
+    .clue-card{background:var(--surface2);border-radius:12px;padding:0.9rem 1rem;margin-bottom:0.6rem;display:flex;align-items:center;gap:12px;border:1px solid #333;transition:opacity 0.35s,filter 0.35s;}
+    .clue-card.locked{opacity:0.25;filter:blur(2px);pointer-events:none;}
     .clue-icon{width:38px;height:38px;background:var(--green-dark);border-radius:9px;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0;}
     .clue-label{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--text-muted);margin-bottom:2px;}
     .clue-value{font-size:14px;font-weight:500;line-height:1.3;}
-    .reveal-btn{margin-left:auto;flex-shrink:0;background:rgba(45,154,86,0.2);border:1px solid rgba(45,154,86,0.4);border-radius:7px;padding:5px 10px;font-size:11px;color:var(--green-light);cursor:pointer;font-family:'DM Sans',sans-serif;font-weight:500;}
-    .reveal-btn:hover{background:rgba(45,154,86,0.35);}
 
-    .divider{height:1px;background:#2e2e2e;margin:0.9rem 0;}
+    /* Badge "indice visible" */
+    .clue-badge{margin-left:auto;flex-shrink:0;font-size:10px;letter-spacing:1px;text-transform:uppercase;color:var(--green-light);background:rgba(45,154,86,0.15);border:1px solid rgba(45,154,86,0.3);border-radius:6px;padding:3px 8px;}
+
+    /* Bouton révéler indice — unique */
+    .reveal-area{margin-bottom:0.8rem;}
+    .reveal-btn-big{width:100%;background:rgba(240,192,64,0.1);border:1px dashed rgba(240,192,64,0.4);border-radius:11px;padding:0.75rem;font-family:'DM Sans',sans-serif;font-size:13px;color:var(--gold);cursor:pointer;transition:background 0.15s;display:flex;align-items:center;justify-content:center;gap:8px;}
+    .reveal-btn-big:hover{background:rgba(240,192,64,0.18);}
+    .reveal-btn-big:disabled{opacity:0.35;cursor:not-allowed;}
+    .reveal-btn-big.used{opacity:0.3;cursor:not-allowed;border-style:solid;}
+
+    .divider{height:1px;background:#2e2e2e;margin:0.8rem 0;}
 
     #g-input{width:100%;background:var(--surface2);border:1.5px solid #444;border-radius:11px;padding:0.8rem 1rem;font-size:15px;color:var(--text);font-family:'DM Sans',sans-serif;outline:none;transition:border-color 0.2s;margin-bottom:0.6rem;}
     #g-input:focus{border-color:var(--green-light);}
@@ -91,15 +105,13 @@
     .result-emoji{font-size:36px;margin-bottom:6px;}
     .result-title{font-family:'Bebas Neue',sans-serif;font-size:22px;letter-spacing:2px;color:var(--gold);}
     .result-player{font-size:13px;color:rgba(245,245,240,0.75);margin-top:5px;}
-    .btn-gold{margin-top:12px;background:var(--gold);border:none;border-radius:9px;padding:0.65rem 1.5rem;font-family:'Bebas Neue',sans-serif;font-size:17px;letter-spacing:1.5px;color:var(--green-dark);cursor:pointer;}
-    .btn-gold:hover{background:#e8b830;}
+    .result-btns{display:flex;gap:8px;justify-content:center;margin-top:12px;}
+    .btn-gold{background:var(--gold);border:none;border-radius:9px;padding:0.65rem 1.5rem;font-family:'Bebas Neue',sans-serif;font-size:17px;letter-spacing:1.5px;color:var(--green-dark);cursor:pointer;}
+    .btn-ghost{background:transparent;border:1px solid rgba(240,192,64,0.4);border-radius:9px;padding:0.65rem 1rem;font-family:'DM Sans',sans-serif;font-size:13px;color:var(--gold);cursor:pointer;}
 
     .loading-screen{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:3rem 1.5rem;text-align:center;}
     .spinner{width:44px;height:44px;border:3px solid var(--surface3);border-top-color:var(--green-light);border-radius:50%;animation:spin 0.8s linear infinite;margin-bottom:1rem;}
     @keyframes spin{to{transform:rotate(360deg);}}
-
-    .btn-secondary{width:100%;background:transparent;border:1px solid #444;border-radius:12px;padding:0.85rem;font-family:'DM Sans',sans-serif;font-size:14px;color:var(--text-muted);cursor:pointer;margin-top:0.7rem;transition:border-color 0.15s,color 0.15s;}
-    .btn-secondary:hover{border-color:#666;color:var(--text);}
   </style>
 </head>
 <body>
@@ -125,7 +137,7 @@
   <!-- Menu -->
   <div id="screen-menu" class="screen">
     <div class="section-title">🎯 Choisir une époque</div>
-    <div class="section-sub">Filtre les joueurs par génération ou joue avec tous !</div>
+    <div class="section-sub">2 essais par joueur · 1 indice révélable · Indice de départ aléatoire</div>
     <div class="era-grid">
       <button class="era-btn selected" onclick="selectEra('all',this)"><span class="era-icon">🌍</span>Toutes</button>
       <button class="era-btn" onclick="selectEra('classic',this)"><span class="era-icon">🏆</span>Classiques</button>
@@ -147,43 +159,63 @@
   <div id="screen-game" class="screen">
     <div class="round-bar">
       <div class="round-label" id="round-label">Manche 1</div>
-      <div class="lives-wrap" id="lives-wrap"></div>
+      <div class="tries-wrap" id="tries-wrap"></div>
     </div>
-    <div class="clue-card" id="gc1">
-      <div class="clue-icon">🌍</div>
-      <div><div class="clue-label">Nationalité</div><div class="clue-value" id="gc1-val">—</div></div>
+
+    <!-- 3 indices, ordre aléatoire -->
+    <div class="clue-card" id="gc-a">
+      <div class="clue-icon" id="gc-a-icon">🌍</div>
+      <div><div class="clue-label" id="gc-a-label">Indice</div><div class="clue-value" id="gc-a-val">—</div></div>
+      <div class="clue-badge">visible</div>
     </div>
-    <div class="clue-card locked" id="gc2">
-      <div class="clue-icon">🎽</div>
-      <div><div class="clue-label">Poste</div><div class="clue-value" id="gc2-val">—</div></div>
-      <button class="reveal-btn" onclick="revealClue(2)">Voir (−1)</button>
+    <div class="clue-card locked" id="gc-b">
+      <div class="clue-icon" id="gc-b-icon">🎽</div>
+      <div><div class="clue-label" id="gc-b-label">Indice</div><div class="clue-value" id="gc-b-val">—</div></div>
     </div>
-    <div class="clue-card locked" id="gc3">
-      <div class="clue-icon">🏟️</div>
-      <div><div class="clue-label">Club & Période</div><div class="clue-value" id="gc3-val">—</div></div>
-      <button class="reveal-btn" onclick="revealClue(3)">Voir (−1)</button>
+    <div class="clue-card locked" id="gc-c">
+      <div class="clue-icon" id="gc-c-icon">🏟️</div>
+      <div><div class="clue-label" id="gc-c-label">Indice</div><div class="clue-value" id="gc-c-val">—</div></div>
     </div>
+
+    <!-- Bouton révéler unique -->
+    <div class="reveal-area">
+      <button class="reveal-btn-big" id="reveal-btn" onclick="revealClue()">
+        💡 Révéler un indice supplémentaire
+      </button>
+    </div>
+
     <div class="divider"></div>
+
     <input id="g-input" type="text" placeholder="Nom du joueur..." autocomplete="off"
       oninput="onInput(this.value)"
       onkeydown="if(event.key==='Enter')submitGuess()"/>
     <div class="suggestions" id="g-sug"></div>
     <button class="btn-primary" onclick="submitGuess()">⚽ Valider</button>
+
     <div style="margin-top:0.9rem;" id="attempts-list"></div>
     <div id="result-wrap"></div>
   </div>
 </div>
 
 <script>
+// Définition des 3 indices possibles
+const CLUE_DEFS = [
+  { key:'country', icon:'🌍', label:'Nationalité' },
+  { key:'position', icon:'🎽', label:'Poste' },
+  { key:'club',    icon:'🏟️', label:'Club & Période' }
+];
+
 const BEST_KEY = 'fg_best';
 let ALL_PLAYERS = [];
 let state = {
   era:'all', pool:[], order:[], round:0,
-  score:0, lives:5, livesMax:5,
-  solved:false, failed:false, current:null, started:false
+  score:0, tries:2, triesMax:2,
+  solved:false, failed:false, current:null,
+  started:false,
+  clueOrder:[],   // ordre des 3 indices pour cette manche [0,1,2] mélangé
+  revealed:false  // l'indice bonus a-t-il été révélé ?
 };
 
-// Chargement du JSON
 async function loadPlayers() {
   try {
     const res = await fetch('./players.json');
@@ -234,121 +266,157 @@ function startGame() {
   loadRound();
 }
 
-function continueGame() {
-  showScreen('screen-game');
-}
+function continueGame() { showScreen('screen-game'); }
 
 function loadRound() {
   const idx = state.order[state.round % state.order.length];
   state.current = state.pool[idx];
-  state.lives = state.livesMax;
-  state.solved = false; state.failed = false;
+  state.tries = state.triesMax;
+  state.solved = false;
+  state.failed = false;
+  state.revealed = false;
 
-  document.getElementById('gc1-val').textContent = state.current.country;
-  document.getElementById('gc2-val').textContent = state.current.position;
-  document.getElementById('gc3-val').textContent = state.current.club;
-  document.getElementById('gc2').classList.add('locked');
-  document.getElementById('gc3').classList.add('locked');
+  // Ordre aléatoire des indices
+  state.clueOrder = shuffle([0, 1, 2]);
+
+  // Remplir les 3 slots (a = visible, b et c = cachés)
+  renderClues();
+
+  // Reset UI
+  document.getElementById('gc-b').classList.add('locked');
+  document.getElementById('gc-c').classList.add('locked');
   document.getElementById('attempts-list').innerHTML = '';
   document.getElementById('result-wrap').innerHTML = '';
   document.getElementById('g-input').value = '';
   document.getElementById('g-input').disabled = false;
   document.getElementById('g-sug').style.display = 'none';
+
+  const revBtn = document.getElementById('reveal-btn');
+  revBtn.disabled = false;
+  revBtn.classList.remove('used');
+  revBtn.innerHTML = '💡 Révéler un indice supplémentaire';
+
   document.getElementById('round-label').textContent = `Manche ${state.round+1}/${state.pool.length}`;
   document.getElementById('prog-fill').style.width = `${(state.round/state.pool.length)*100}%`;
   document.getElementById('score-pill').textContent = `Score : ${state.score}`;
   document.getElementById('pool-pill').textContent = `Pool : ${state.pool.length} joueurs`;
-  updateLives();
+  updateTries();
 }
 
-function updateLives() {
-  const w = document.getElementById('lives-wrap');
+function renderClues() {
+  const p = state.current;
+  const slots = ['a','b','c'];
+  slots.forEach((slot, i) => {
+    const def = CLUE_DEFS[state.clueOrder[i]];
+    document.getElementById(`gc-${slot}-icon`).textContent = def.icon;
+    document.getElementById(`gc-${slot}-label`).textContent = def.label;
+    document.getElementById(`gc-${slot}-val`).textContent = p[def.key];
+  });
+}
+
+function updateTries() {
+  const w = document.getElementById('tries-wrap');
   w.innerHTML = '';
-  for(let i=0;i<state.livesMax;i++){
-    const d=document.createElement('div');
-    d.className='life-dot'+(i>=state.lives?' used':'');
-    w.appendChild(d);
+  for(let i=0;i<state.triesMax;i++){
+    const ball = document.createElement('span');
+    ball.className = 'try-ball' + (i >= state.tries ? ' used' : '');
+    ball.textContent = '⚽';
+    w.appendChild(ball);
   }
 }
 
-function revealClue(n) {
-  if(state.lives<=1||state.solved||state.failed)return;
-  state.lives--;
-  document.getElementById(`gc${n}`).classList.remove('locked');
-  updateLives();
+// Révèle le 2ème indice (slot b) — 1 seul droit
+function revealClue() {
+  if(state.revealed || state.solved || state.failed) return;
+  state.revealed = true;
+  document.getElementById('gc-b').classList.remove('locked');
+  const btn = document.getElementById('reveal-btn');
+  btn.disabled = true;
+  btn.classList.add('used');
+  btn.innerHTML = '✅ Indice révélé';
 }
 
-function norm(s){return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim();}
+function norm(s){ return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim(); }
 
 function onInput(val) {
-  const sug=document.getElementById('g-sug');
+  const sug = document.getElementById('g-sug');
   if(!val.trim()){sug.style.display='none';return;}
-  const n=norm(val);
-  const matches=[...new Set(state.pool.map(p=>p.name))].filter(name=>norm(name).includes(n)).slice(0,6);
+  const n = norm(val);
+  const matches = [...new Set(state.pool.map(p=>p.name))].filter(name=>norm(name).includes(n)).slice(0,6);
   if(!matches.length){sug.style.display='none';return;}
-  sug.innerHTML=matches.map(m=>`<div class="sug-item" onclick="pickSug('${m.replace(/'/g,"\\'")}')">${m}</div>`).join('');
-  sug.style.display='block';
+  sug.innerHTML = matches.map(m=>`<div class="sug-item" onclick="pickSug('${m.replace(/'/g,"\\'")}')">${m}</div>`).join('');
+  sug.style.display = 'block';
 }
 
 function pickSug(name){
-  document.getElementById('g-input').value=name;
-  document.getElementById('g-sug').style.display='none';
+  document.getElementById('g-input').value = name;
+  document.getElementById('g-sug').style.display = 'none';
 }
 
 function submitGuess(){
-  if(state.solved||state.failed)return;
-  const val=document.getElementById('g-input').value.trim();
-  if(!val)return;
-  document.getElementById('g-sug').style.display='none';
-  const nv=norm(val);
-  const answers=state.current.answers||[norm(state.current.name)];
-  const correct=answers.some(a=>norm(a)===nv);
-  const close=!correct&&answers.some(a=>{const na=norm(a);return na.includes(nv)||nv.includes(na.split(' ').pop());});
+  if(state.solved || state.failed) return;
+  const val = document.getElementById('g-input').value.trim();
+  if(!val) return;
+  document.getElementById('g-sug').style.display = 'none';
 
-  const item=document.createElement('div');
-  item.className='attempt-row';
-  item.innerHTML=correct
-    ?`<span style="font-size:16px">✅</span><span style="color:#2d9a56">${val}</span>`
-    :close
-    ?`<span style="font-size:16px">🟡</span><span style="color:#f0c040">${val}</span><span style="font-size:11px;color:#666;margin-left:4px">(proche !)</span>`
-    :`<span style="font-size:16px">❌</span><span style="color:#e03535">${val}</span>`;
+  const nv = norm(val);
+  const answers = state.current.answers || [norm(state.current.name)];
+  const correct = answers.some(a => norm(a) === nv);
+  const close = !correct && answers.some(a => {
+    const na = norm(a);
+    return na.includes(nv) || nv.includes(na.split(' ').pop());
+  });
+
+  const item = document.createElement('div');
+  item.className = 'attempt-row';
+  item.innerHTML = correct
+    ? `<span style="font-size:16px">✅</span><span style="color:#2d9a56">${val}</span>`
+    : close
+    ? `<span style="font-size:16px">🟡</span><span style="color:#f0c040">${val}</span><span style="font-size:11px;color:#666;margin-left:4px">(proche !)</span>`
+    : `<span style="font-size:16px">❌</span><span style="color:#e03535">${val}</span>`;
   document.getElementById('attempts-list').prepend(item);
-  document.getElementById('g-input').value='';
+  document.getElementById('g-input').value = '';
 
   if(correct){
-    state.solved=true;
-    state.score+=Math.max(10,state.lives*20);
-    const best=parseInt(localStorage.getItem(BEST_KEY)||'0');
-    if(state.score>best)localStorage.setItem(BEST_KEY,state.score);
+    state.solved = true;
+    // Score : 100 si trouvé du 1er coup sans indice, moins sinon
+    const bonus = (state.tries === state.triesMax ? 50 : 0) + (state.revealed ? 0 : 30);
+    state.score += 20 + bonus;
+    const best = parseInt(localStorage.getItem(BEST_KEY)||'0');
+    if(state.score > best) localStorage.setItem(BEST_KEY, state.score);
     showResult(true);
   } else {
-    state.lives=Math.max(0,state.lives-1);
-    updateLives();
-    if(state.lives===0){state.failed=true;showResult(false);}
+    state.tries = Math.max(0, state.tries - 1);
+    updateTries();
+    // Si dernier essai raté → révèle automatiquement l'indice bonus si pas encore révélé
+    if(state.tries === 1 && !state.revealed) {
+      revealClue();
+    }
+    if(state.tries === 0){ state.failed = true; showResult(false); }
   }
 }
 
 function showResult(won){
-  document.getElementById('g-input').disabled=true;
-  document.getElementById('score-pill').textContent=`Score : ${state.score}`;
-  const box=document.createElement('div');
-  box.className='result-box';
-  box.innerHTML=`
-    <div class="result-emoji">${won?'🏆':'😞'}</div>
-    <div class="result-title">${won?'Bien joué !':'Perdu !'}</div>
+  document.getElementById('g-input').disabled = true;
+  document.getElementById('score-pill').textContent = `Score : ${state.score}`;
+  const box = document.createElement('div');
+  box.className = 'result-box';
+  box.innerHTML = `
+    <div class="result-emoji">${won ? '🏆' : '😞'}</div>
+    <div class="result-title">${won ? 'Bien joué !' : 'Perdu !'}</div>
     <div class="result-player">C'était : <strong>${state.current.name}</strong></div>
-    <div style="display:flex;gap:8px;justify-content:center;margin-top:12px;">
+    <div class="result-btns">
       <button class="btn-gold" onclick="nextRound()">Suivant →</button>
-      <button onclick="backToMenu()" style="background:transparent;border:1px solid rgba(240,192,64,0.4);border-radius:9px;padding:0.65rem 1rem;font-family:'DM Sans',sans-serif;font-size:13px;color:var(--gold);cursor:pointer;">Menu</button>
+      <button class="btn-ghost" onclick="backToMenu()">Menu</button>
     </div>`;
   document.getElementById('result-wrap').appendChild(box);
 }
 
 function nextRound(){
   state.round++;
-  if(state.round>=state.pool.length){
-    state.order=shuffle([...Array(state.pool.length).keys()]);
-    state.round=0;
+  if(state.round >= state.pool.length){
+    state.order = shuffle([...Array(state.pool.length).keys()]);
+    state.round = 0;
   }
   loadRound();
 }
