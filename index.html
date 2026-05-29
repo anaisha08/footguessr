@@ -340,11 +340,13 @@ function norm(s){ return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036
 
 function onInput(val) {
   const sug = document.getElementById('g-sug');
-  if(!val.trim()){sug.style.display='none';return;}
   const n = norm(val);
-  const matches = [...new Set(state.pool.map(p=>p.name))].filter(name=>norm(name).includes(n)).slice(0,6);
+  if(n.length < 3){sug.style.display='none';return;}
+  const matches = [...new Set(state.pool.map(p=>p.name))]
+    .filter(name => norm(name).split(' ').some(word => word.startsWith(n)))
+    .slice(0, 6);
   if(!matches.length){sug.style.display='none';return;}
-  sug.innerHTML = matches.map(m=>`<div class="sug-item" onclick="pickSug('${m.replace(/'/g,"\\'")}')">${m}</div>`).join('');
+  sug.innerHTML = matches.map(m=>`<div class="sug-item" onclick="pickSug('${m.replace(/'/g,"\'")}')"">${m}</div>`).join('');
   sug.style.display = 'block';
 }
 
